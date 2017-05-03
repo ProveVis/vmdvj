@@ -15,6 +15,4 @@ Files:
 5. Go to the folder of SCTLProV (i.e., `sctl_visualization`), and run SCTLProV (e.g., `sctl -output output.out river.model`).
 
 # Authors
-Jian Liu (liujian@ios.ac.cn),
-Ying Jiang (jy@ios.ac.cn),
-Yanyun Chen (chenyy@ios.ac.cn)
+Jian Liu (liujian@ios.ac.cn), Ying Jiang (jy@ios.ac.cn), and Yanyun Chen (chenyy@ios.ac.cn)
