@@ -14,5 +14,5 @@ Files:
 4. Find `VisualizAgent.java` in the package `vmdv.network`, and then `Run As --> Java Application` in the Package Explorer.
 5. Go to the folder of SCTLProV (i.e., `sctl_visualization`), and run SCTLProV (e.g., `sctl -output output.out river.model`).
 
-# Authors
-Jian Liu (liujian@ios.ac.cn), Ying Jiang (jy@ios.ac.cn), and Yanyun Chen (chenyy@ios.ac.cn)
+# Author and Acknowledgement
+This tool is written by Jian Liu (liujian@ios.ac.cn). The author would like to thank Ying Jiang (jy@ios.ac.cn) and Yanyun Chen (chenyy@ios.ac.cn) for their valuable remarks.
