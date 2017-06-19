@@ -35,9 +35,9 @@
 
 1. Total refactor of the java classes and interfaces. The 2.0 version follows the MVC (i.e., Model-View-Controller) design pattern: 
    * Model: The inter-representation of two kinds of graphs: `Tree` and `DiGraph`, both inherit the abstract class `AbstractGraph`;
-   * View: The main UI `Viewer`, and several kinds of event handlers including `GLEventHandler`, `KeyHandler`, `MouseHandler`, `MouseMotionHandler`, and `MouseWheelHandler`. 
+   * View: The main UI `Viewer`, and several kinds of event handlers including `GLEventHandler`, `KeyHandler`, `MouseHandler`, `MouseMotionHandler`, and `MouseWheelHandler` which can help building the UI. 
    * Controller: The main class `VMDV`, and the layout algorithm of 3D graphs `GraphLayout`, which is an abstract class, so people can write their own layout algorithm, as long as they inherit `GraphLayout`.
-2. Added a flexible communication protocol between theorem provers and `VMDV`. This protocol is specified in the file `protocol.md`. 
+2. Added a flexible communication protocol between theorem provers and `VMDV`. This protocol is specified in the file `protocol.md`. The data transmitted following the protocol is wrapped as `JSON` objects.
 3.  Discard the folder `sctl_visualization`, and the visualization agent of the theorem prover `SCTLProV` is integerated into its [main repository](https://github.com/terminatorlxj/SCTLProV). 
 
 # Author and Acknowledgment
