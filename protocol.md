@@ -40,7 +40,7 @@ Both proof systems or vmdv can send **commands** to each other and, for each **c
     "session_id": string,
     "node":
       {
-  		"id": string,
+        	"id": string,
         	"label": string,
         	"state": string
       }
@@ -89,7 +89,7 @@ Both proof systems or vmdv can send **commands** to each other and, for each **c
     "type": "change_node_state",
     "session_id": string,
     "node_id": string,
-    "new_state", string
+    "new_state": string
   }
   ```
 
