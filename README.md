@@ -41,4 +41,4 @@
 3.  Discard the folder `sctl_visualization`, and the visualization agent of the theorem prover `SCTLProV` is integerated into its [main repository](https://github.com/terminatorlxj/SCTLProV). 
 
 # Author and Acknowledgment
-This tool is written by Jian Liu (liujian@ios.ac.cn). The author would like to thank Ying Jiang (jy@ios.ac.cn) and Yanyun Chen (chenyy@ios.ac.cn) for their valuable remarks.
+The original idea of this tool is suggested by Ying Jiang (jy@ios.ac.cn). This tool is developed by Jian Liu (liujian@ios.ac.cn). The author would like to thank Ying Jiang (jy@ios.ac.cn) and Yanyun Chen (chenyy@ios.ac.cn) for their valuable remarks.
